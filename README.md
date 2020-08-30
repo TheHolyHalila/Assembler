@@ -17,10 +17,10 @@ Example files:
 # How to run
 Run both by:
 
-./assembler.out errorFiles example
+	./assembler.out errorFiles example
 
 Or run them one by one with:
 
-./assembler.out errorFiles
+	./assembler.out errorFiles
 
-./assembler.out example
+	./assembler.out example
